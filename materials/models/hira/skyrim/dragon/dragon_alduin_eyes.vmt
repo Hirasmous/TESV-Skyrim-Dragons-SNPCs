@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/hira/skyrim/dragon/dragon_alduin_eyes"
+	
+	$selfillum 1 
+	$selfillummask "models/hira/skyrim/dragon/dragon_alduin_eyes_g"
+	$selfillumtint "[5 0 0]"
+
+                $phong			1
+	$phongexponent		10
+	$phongboost		10
+	$phongfresnelranges	"[0 0.5 1]"
+}
